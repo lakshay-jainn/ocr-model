@@ -1,0 +1,450 @@
+{
+  "filename": "file9.jpg",
+  "pages": [
+    {
+      "page_number": 1,
+      "content": {
+        "generalInfo": [
+          {
+            "label": "Account",
+            "readText": {
+              "value": "SHINDE SHWETA ASHOK. (Satara H.O-Satara)"
+            }
+          },
+          {
+            "label": "Department",
+            "readText": {
+              "value": "All Locations"
+            }
+          }
+        ],
+        "medicines": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "H1-543614",
+              "dosage": "1222.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "CR-24230",
+              "dosage": "1220.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "SBH1-53080",
+              "dosage": "2384.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "H1-543619",
+              "dosage": "66.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "medicine": "CR-24231",
+              "dosage": "2000.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "medicine": "SBH1-53064",
+              "dosage": "1430.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 7,
+            "readText": {
+              "medicine": "SR-9377",
+              "dosage": "999.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 8,
+            "readText": {
+              "medicine": "SBH1-53066",
+              "dosage": "1022.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 9,
+            "readText": {
+              "medicine": "SRH1-53075",
+              "dosage": "495.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 10,
+            "readText": {
+              "medicine": "H1-543658",
+              "dosage": "253.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 11,
+            "readText": {
+              "medicine": "SBH1-53064",
+              "dosage": "4830.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 12,
+            "readText": {
+              "medicine": "CR-24235",
+              "dosage": "3000.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 13,
+            "readText": {
+              "medicine": "H1-543678",
+              "dosage": "768.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 14,
+            "readText": {
+              "medicine": "SR-9383",
+              "dosage": "1879.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 15,
+            "readText": {
+              "medicine": "SBH1-53104",
+              "dosage": "3336.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 16,
+            "readText": {
+              "medicine": "CR-24292",
+              "dosage": "9300.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 17,
+            "readText": {
+              "medicine": "SRH1-53115",
+              "dosage": "2047.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 18,
+            "readText": {
+              "medicine": "SRH1-53115",
+              "dosage": "3804.00",
+              "timing": "Dr",
+              "duration": ""
+            }
+          }
+        ],
+        "multivitamins": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "2.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "182.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "583.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "5659.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "4911.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "10731.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 7,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "7731.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 8,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "8499.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 9,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "6621.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 10,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "9567.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 11,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "667.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 12,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "3804.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          }
+        ],
+        "injections": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "2.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "182.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "583.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "5659.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "4911.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "10731.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 7,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "7731.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 8,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "8499.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 9,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "6621.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 10,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "9567.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 11,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "667.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 12,
+            "readText": {
+              "medicine": "PRIYA",
+              "dosage": "3804.00",
+              "timing": "Dr",
+              "frequency": "",
+              "duration": ""
+            }
+          }
+        ],
+        "radiologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "SHINDE SHWETA ASHOK",
+              "additionalInfo": ""
+            }
+          }
+        ],
+        "pathologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "SHINDE SHWETA ASHOK",
+              "additionalInfo": ""
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

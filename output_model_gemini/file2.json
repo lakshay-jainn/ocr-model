@@ -1,0 +1,79 @@
+{
+  "filename": "file2.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "DL No.",
+        "readText": {
+          "value": "12345678RRTT"
+        }
+      },
+      {
+        "label": "RLF No.",
+        "readText": {
+          "value": "12345678RRTT"
+        }
+      },
+      {
+        "label": "Mo. No.",
+        "readText": {
+          "value": "1234567890"
+        }
+      },
+      {
+        "label": "Bill No.",
+        "readText": {
+          "value": "547"
+        }
+      },
+      {
+        "label": "Date",
+        "readText": {
+          "value": "10/10/2024"
+        }
+      },
+      {
+        "label": "Sold to Shree",
+        "readText": {
+          "value": "DILIP"
+        }
+      },
+      {
+        "label": "Add & Mo.",
+        "readText": {
+          "value": "9876xx"
+        }
+      },
+      {
+        "label": "Prescribe by Dr.",
+        "readText": {
+          "value": "Priyam"
+        }
+      }
+    ],
+    "medicines": [
+      {
+        "slNo": 1,
+        "readText": {
+          "medicine": "ECOSPRIN",
+          "dosage": "75",
+          "timing": null,
+          "duration": null
+        }
+      }
+    ],
+    "multivitamins": [],
+    "injections": [],
+    "radiologicalTests": [
+      {
+        "slNo": 2,
+        "readText": {
+          "testName": "DAN CT",
+          "additionalInfo": null
+        }
+      }
+    ],
+    "pathologicalTests": []
+  }
+}

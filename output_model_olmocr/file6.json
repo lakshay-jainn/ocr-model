@@ -1,0 +1,124 @@
+{
+  "filename": "file6.jpg",
+  "pages": [
+    {
+      "page_number": 1,
+      "content": {
+        "generalInfo": [
+          {
+            "label": "PTS NAME",
+            "readText": {
+              "value": "Chawla Shinde"
+            }
+          },
+          {
+            "label": "No.",
+            "readText": {
+              "value": "2748"
+            }
+          },
+          {
+            "label": "Date",
+            "readText": {
+              "value": "03/12/2021"
+            }
+          }
+        ],
+        "medicines": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "LAB",
+              "dosage": "3600L",
+              "timing": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "X-RAY",
+              "dosage": "1000L",
+              "timing": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "2D-ECHO",
+              "dosage": "2000L",
+              "timing": "",
+              "duration": ""
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "OTHER",
+              "dosage": "0",
+              "timing": "",
+              "duration": ""
+            }
+          }
+        ],
+        "multivitamins": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "Conting",
+              "dosage": "0",
+              "timing": "",
+              "frequency": "",
+              "duration": ""
+            }
+          }
+        ],
+        "injections": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "Conting",
+              "dosage": "0",
+              "timing": "",
+              "frequency": "",
+              "duration": ""
+            }
+          }
+        ],
+        "radiologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "LAB",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "testName": "X-RAY",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "testName": "2D-ECHO",
+              "additionalInfo": ""
+            }
+          }
+        ],
+        "pathologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "OTHER",
+              "additionalInfo": ""
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

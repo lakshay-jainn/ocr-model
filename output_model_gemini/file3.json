@@ -1,0 +1,110 @@
+{
+  "filename": "file3.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "Order ID",
+        "readText": {
+          "value": "549790463153565696-62714"
+        }
+      },
+      {
+        "label": "Invoice no.",
+        "readText": {
+          "value": "S02383524A792829"
+        }
+      },
+      {
+        "label": "Order Date",
+        "readText": {
+          "value": "15-02-2025"
+        }
+      },
+      {
+        "label": "Invoice Date",
+        "readText": {
+          "value": "16-02-2025"
+        }
+      },
+      {
+        "label": "POS",
+        "readText": {
+          "value": "07-DELHI"
+        }
+      },
+      {
+        "label": "SOLD BY(PHARMACY)",
+        "readText": {
+          "value": "HEALTH91 PHARMA PRIVATE LTD"
+        }
+      },
+      {
+        "label": "BILL TO / SHIP TO",
+        "readText": {
+          "value": "Ramesh Kr Gupta"
+        }
+      },
+      {
+        "label": "Doctor Name",
+        "readText": {
+          "value": "aman makhija"
+        }
+      },
+      {
+        "label": "GSTIN",
+        "readText": {
+          "value": "06AAGCH1779Q1ZW"
+        }
+      },
+      {
+        "label": "DL No.",
+        "readText": {
+          "value": "RLF20HR2023003072,RLF21HR2023003073"
+        }
+      },
+      {
+        "label": "Total Invoice Amount",
+        "readText": {
+          "value": "500.27"
+        }
+      },
+      {
+        "label": "Total savings",
+        "readText": {
+          "value": "Rs. 192.63/-"
+        }
+      },
+      {
+        "label": "Pharmacist",
+        "readText": {
+          "value": "Ravinder(PR No.: 53077)"
+        }
+      }
+    ],
+    "medicines": [
+      {
+        "slNo": 1,
+        "readText": {
+          "medicine": "GLUXIT",
+          "dosage": "10MG STRIP OF 10 T",
+          "timing": null,
+          "duration": null
+        }
+      },
+      {
+        "slNo": 2,
+        "readText": {
+          "medicine": "CORBIS",
+          "dosage": "2.5MG STRIP OF",
+          "timing": null,
+          "duration": null
+        }
+      }
+    ],
+    "multivitamins": [],
+    "injections": [],
+    "radiologicalTests": [],
+    "pathologicalTests": []
+  }
+}

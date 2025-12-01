@@ -1,0 +1,136 @@
+{
+  "filename": "file4.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "Date & Time",
+        "readText": {
+          "value": "17-Apr-2024 12:59 PM"
+        }
+      },
+      {
+        "label": "BP",
+        "readText": {
+          "value": "90/70 mmHg"
+        }
+      },
+      {
+        "label": "Pulse",
+        "readText": {
+          "value": "80 bpm"
+        }
+      },
+      {
+        "label": "Weight",
+        "readText": {
+          "value": "69.5 kg"
+        }
+      },
+      {
+        "label": "Complaints",
+        "readText": {
+          "value": "STABLE , NO FRESH COMPLAINTS , NYHA I"
+        }
+      },
+      {
+        "label": "Diagnosis",
+        "readText": {
+          "value": "ICMP , LVEF 35% , PAST H/O LV APICAL CLOT , CHOLELITHIASIS , NYHA CLASS I , PTCA TO LAD 2014 , RE MI 2019, LAD 100%"
+        }
+      },
+      {
+        "label": "Systemic Examination",
+        "readText": {
+          "value": "NAD"
+        }
+      },
+      {
+        "label": "Next Visit",
+        "readText": {
+          "value": "3 months (17-Jul-2024 - Wednesday)"
+        }
+      }
+    ],
+    "medicines": [
+      {
+        "slNo": 1,
+        "readText": {
+          "medicine": "TAB. NOVASTAT CV 10MG",
+          "dosage": "0-0-1",
+          "timing": "After Dinner",
+          "duration": "Daily - 3 Months"
+        }
+      },
+      {
+        "slNo": 2,
+        "readText": {
+          "medicine": "TAB. ZAYO 200 / CIDMUS 200",
+          "dosage": "1-0-1",
+          "timing": "After Food",
+          "duration": "Daily - 3 Months"
+        }
+      },
+      {
+        "slNo": 3,
+        "readText": {
+          "medicine": "TAB. CORBIS 2.5MG",
+          "dosage": "1-0-0",
+          "timing": "After Food",
+          "duration": "Daily - 3 Months"
+        }
+      },
+      {
+        "slNo": 4,
+        "readText": {
+          "medicine": "TAB. ALDACTONE 25MG",
+          "dosage": "0-0-1",
+          "timing": "After Food",
+          "duration": "Daily - 3 Months"
+        }
+      },
+      {
+        "slNo": 5,
+        "readText": {
+          "medicine": "TAB. GLUXIT 10MG",
+          "dosage": "1-0-0",
+          "timing": "After Food",
+          "duration": "Daily - 3 Months"
+        }
+      }
+    ],
+    "multivitamins": [],
+    "injections": [],
+    "radiologicalTests": [],
+    "pathologicalTests": [
+      {
+        "slNo": 1,
+        "readText": {
+          "testName": "CBC",
+          "additionalInfo": null
+        }
+      },
+      {
+        "slNo": 2,
+        "readText": {
+          "testName": "KFT",
+          "additionalInfo": null
+        }
+      },
+      {
+        "slNo": 3,
+        "readText": {
+          "testName": "LIPID PROFILE",
+          "additionalInfo": null
+        }
+      },
+      {
+        "slNo": 4,
+        "readText": {
+          "testName": "HBA1C",
+          "additionalInfo": null
+        }
+      }
+    ]
+  }
+}

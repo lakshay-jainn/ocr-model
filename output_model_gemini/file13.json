@@ -1,0 +1,217 @@
+{
+  "filename": "file13.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "CLM Number",
+        "readText": {
+          "value": "CLM20241200020072007"
+        }
+      },
+      {
+        "label": "Employee Name",
+        "readText": {
+          "value": "AKKALADEVI SANTHOSH KUMAR"
+        }
+      },
+      {
+        "label": "Employee ID",
+        "readText": {
+          "value": "20072"
+        }
+      },
+      {
+        "label": "Cadre",
+        "readText": {
+          "value": "Management"
+        }
+      },
+      {
+        "label": "JG/Grade",
+        "readText": {
+          "value": "H"
+        }
+      },
+      {
+        "label": "Region/Location",
+        "readText": {
+          "value": "MR / DHDS"
+        }
+      },
+      {
+        "label": "Job Group",
+        "readText": {
+          "value": "C"
+        }
+      },
+      {
+        "label": "Claim For (Patient Name)",
+        "readText": {
+          "value": "AKKALADEVI SAHITHI"
+        }
+      },
+      {
+        "label": "Relationship",
+        "readText": {
+          "value": "Spouse"
+        }
+      },
+      {
+        "label": "Ailment",
+        "readText": {
+          "value": "GYNAEC/ OBSTETRICS/ REPRODU"
+        }
+      },
+      {
+        "label": "Age",
+        "readText": {
+          "value": "29"
+        }
+      },
+      {
+        "label": "Treatment Type",
+        "readText": {
+          "value": "Allopathy"
+        }
+      },
+      {
+        "label": "Claim Type (1)",
+        "readText": {
+          "value": "Hospitalization"
+        }
+      },
+      {
+        "label": "Claim Amount (1)",
+        "readText": {
+          "value": "70149.00"
+        }
+      },
+      {
+        "label": "Adv Settled (1)",
+        "readText": {
+          "value": "0.00"
+        }
+      },
+      {
+        "label": "Remarks (1)",
+        "readText": {
+          "value": "puerperium"
+        }
+      },
+      {
+        "label": "Expense Type: Room Rent",
+        "readText": {
+          "value": "9000.00"
+        }
+      },
+      {
+        "label": "Expense Type: Surgeon Charges",
+        "readText": {
+          "value": "30500.00"
+        }
+      },
+      {
+        "label": "Expense Type: Anaesthesia Charges",
+        "readText": {
+          "value": "4500.00"
+        }
+      },
+      {
+        "label": "Expense Type: OT Charges",
+        "readText": {
+          "value": "4000.00"
+        }
+      },
+      {
+        "label": "Expense Type: Dr Visit Charges",
+        "readText": {
+          "value": "6000.00"
+        }
+      },
+      {
+        "label": "Expense Type: Nursing Charges",
+        "readText": {
+          "value": "3000.00"
+        }
+      },
+      {
+        "label": "Expense Type: Investigations / X-ray Charges",
+        "readText": {
+          "value": "1000.00"
+        }
+      },
+      {
+        "label": "Expense Type: Medicines / Injections",
+        "readText": {
+          "value": "10149.00"
+        }
+      },
+      {
+        "label": "Expense Type: Oxygen / Blood / Monitor Charges",
+        "readText": {
+          "value": "2000.00"
+        }
+      },
+      {
+        "label": "Claim For (Patient Name, 2)",
+        "readText": {
+          "value": "AKKALADEVI SAHITHI"
+        }
+      },
+      {
+        "label": "Relationship (2)",
+        "readText": {
+          "value": "Spouse"
+        }
+      },
+      {
+        "label": "Ailment (2)",
+        "readText": {
+          "value": "GYNAEC/ OBSTETRICS/ REPRODU"
+        }
+      },
+      {
+        "label": "Age (2)",
+        "readText": {
+          "value": "29"
+        }
+      },
+      {
+        "label": "Treatment Type (2)",
+        "readText": {
+          "value": "Allopathy"
+        }
+      },
+      {
+        "label": "Claim Type (2)",
+        "readText": {
+          "value": "Domiciliary (Non Hosp)"
+        }
+      },
+      {
+        "label": "Claim Amount (2)",
+        "readText": {
+          "value": "16187.80"
+        }
+      },
+      {
+        "label": "Adv Settled (2)",
+        "readText": {
+          "value": "0.00"
+        }
+      },
+      {
+        "label": "Remarks (2)",
+        "readText": {
+          "value": "POST DELIVERY AILMENT CHARGES"
+        }
+      }
+    ],
+    "medicines": null,
+    "multivitamins": null,
+    "injections": null,
+    "radiologicalTests": null,
+    "pathologicalTests": null
+  }
+}

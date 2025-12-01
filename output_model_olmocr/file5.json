@@ -1,0 +1,259 @@
+{
+  "filename": "file5.jpg",
+  "pages": [
+    {
+      "page_number": 1,
+      "content": {
+        "generalInfo": [
+          {
+            "label": "Mr. RAMESH K. SUPRA",
+            "readText": {
+              "value": "54/M. 11/8/2023"
+            }
+          }
+        ],
+        "medicines": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "T. NOVASTAT-CV 10",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "T. CORBIS 2.5mg",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "T. CIOMU 200",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "T. AWACTIONE 25mg",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "medicine": "T. GLUXIT 10mg",
+              "dosage": "x 1."
+            }
+          }
+        ],
+        "multivitamins": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "PTCA 20 LAD-2014",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "Leml- Dec 19.",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "UAG-1 W.",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "HS-13.40",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "medicine": "hSAC-6.1",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "medicine": "Cr-0.20",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 7,
+            "readText": {
+              "medicine": "178/4.2",
+              "dosage": "x 1."
+            }
+          }
+        ],
+        "injections": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "PTCA 20 LAD-2014",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "Leml- Dec 19.",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "UAG-1 W.",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "HS-13.40",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "medicine": "hSAC-6.1",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "medicine": "Cr-0.20",
+              "dosage": "x 1."
+            }
+          },
+          {
+            "slNo": 7,
+            "readText": {
+              "medicine": "178/4.2",
+              "dosage": "x 1."
+            }
+          }
+        ],
+        "radiologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "PTCA 20 LAD-2014",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "testName": "Leml- Dec 19.",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "testName": "UAG-1 W.",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "testName": "HS-13.40",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "testName": "hSAC-6.1",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "testName": "Cr-0.20",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "slNo": 7,
+            "readText": {
+              "testName": "178/4.2",
+              "additionalInfo": ""
+            }
+          }
+        ],
+        "pathologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "PTCA 20 LAD-2014",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "testName": "Leml- Dec 19.",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "testName": "UAG-1 W.",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "sl": 4,
+            "readText": {
+              "testName": "HS-13.40",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "No": 5,
+            "readText": {
+              "testName": "hSAC-6.1",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "No": 6,
+            "readText": {
+              "testName": "Cr-0.20",
+              "additionalInfo": ""
+            }
+          },
+          {
+            "No": 7,
+            "readText": {
+              "testName": "178/4.2",
+              "additionalInfo": ""
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

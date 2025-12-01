@@ -1,0 +1,151 @@
+{
+  "filename": "file12.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "Patient's Name",
+        "readText": {
+          "value": "MISS. SWETA SHINDE"
+        }
+      },
+      {
+        "label": "Dr. Name",
+        "readText": {
+          "value": "DR. SANGRAM DESHMUKH"
+        }
+      },
+      {
+        "label": "Ward",
+        "readText": {
+          "value": "ICU"
+        }
+      },
+      {
+        "label": "Date",
+        "readText": {
+          "value": "2/12/24"
+        }
+      },
+      {
+        "label": "Insurance Claim",
+        "readText": {
+          "value": "Yes / No"
+        }
+      }
+    ],
+    "medicines": [
+      {
+        "slNo": 1,
+        "readText": {
+          "medicine": "LANOMTUS",
+          "dosage": null,
+          "timing": null,
+          "duration": null
+        }
+      },
+      {
+        "slNo": 2,
+        "readText": {
+          "medicine": "NS",
+          "dosage": "500ml",
+          "timing": null,
+          "duration": null
+        }
+      },
+      {
+        "slNo": 3,
+        "readText": {
+          "medicine": "GLOVES",
+          "dosage": "10 pair",
+          "timing": null,
+          "duration": null
+        }
+      },
+      {
+        "slNo": 4,
+        "readText": {
+          "medicine": "DYPER",
+          "dosage": "L",
+          "timing": null,
+          "duration": null
+        }
+      }
+    ],
+    "multivitamins": null,
+    "injections": [
+      {
+        "slNo": 1,
+        "readText": {
+          "medicine": "MEROPENEM",
+          "dosage": "500mg",
+          "timing": null,
+          "frequency": null,
+          "duration": null
+        }
+      },
+      {
+        "slNo": 2,
+        "readText": {
+          "medicine": "LEVED",
+          "dosage": "600",
+          "timing": null,
+          "frequency": null,
+          "duration": null
+        }
+      },
+      {
+        "slNo": 3,
+        "readText": {
+          "medicine": "PAN",
+          "dosage": "40mg",
+          "timing": null,
+          "frequency": null,
+          "duration": null
+        }
+      },
+      {
+        "slNo": 4,
+        "readText": {
+          "medicine": "EMSGUMA",
+          "dosage": null,
+          "timing": null,
+          "frequency": null,
+          "duration": null
+        }
+      },
+      {
+        "slNo": 5,
+        "readText": {
+          "medicine": "AVEL",
+          "dosage": null,
+          "timing": null,
+          "frequency": null,
+          "duration": null
+        }
+      },
+      {
+        "slNo": 6,
+        "readText": {
+          "medicine": "H-CORT",
+          "dosage": "100mg",
+          "timing": null,
+          "frequency": null,
+          "duration": null
+        }
+      },
+      {
+        "slNo": 7,
+        "readText": {
+          "medicine": "MEOMOL",
+          "dosage": "100ml",
+          "timing": null,
+          "frequency": null,
+          "duration": null
+        }
+      }
+    ],
+    "radiologicalTests": null,
+    "pathologicalTests": null
+  }
+}

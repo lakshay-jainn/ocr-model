@@ -1,0 +1,240 @@
+{
+  "filename": "file1.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "Doctor 1 Name",
+        "readText": {
+          "value": "DR. JANAK D. SHAH"
+        }
+      },
+      {
+        "label": "Doctor 1 Qualifications",
+        "readText": {
+          "value": "M.B.B.S., S.E.O."
+        }
+      },
+      {
+        "label": "Doctor 1 Reg. No.",
+        "readText": {
+          "value": "59874"
+        }
+      },
+      {
+        "label": "Doctor 2 Name",
+        "readText": {
+          "value": "DR. (Mrs.) PRITI J. SHAH"
+        }
+      },
+      {
+        "label": "Doctor 2 Qualifications",
+        "readText": {
+          "value": "M.B.B.S."
+        }
+      },
+      {
+        "label": "Doctor 2 Reg. No.",
+        "readText": {
+          "value": "64334"
+        }
+      },
+      {
+        "label": "Panel Doctor",
+        "readText": {
+          "value": "L.I.C. Panel Doctor"
+        }
+      },
+      {
+        "label": "Clinic 1 Name",
+        "readText": {
+          "value": "DHIRAJ CLINIC"
+        }
+      },
+      {
+        "label": "Clinic 1 Address",
+        "readText": {
+          "value": "Shivraj Apt., Hansnagar, Behind S. T. Workshop, Khopat, Thane - 400 601."
+        }
+      },
+      {
+        "label": "Clinic 1 Phone",
+        "readText": {
+          "value": "2533 07 37"
+        }
+      },
+      {
+        "label": "Clinic 2 Name",
+        "readText": {
+          "value": "DE - DIWAJ FAMILY HEALTH CARE CENTRE"
+        }
+      },
+      {
+        "label": "Clinic 2 Address",
+        "readText": {
+          "value": "Dhairya Society, Shop 2, S. V. Road, Naupada, Thane - 400 602."
+        }
+      },
+      {
+        "label": "Clinic 2 Phone",
+        "readText": {
+          "value": "3297 70 34"
+        }
+      },
+      {
+        "label": "Patient ID",
+        "readText": {
+          "value": "4774"
+        }
+      },
+      {
+        "label": "Patient Name",
+        "readText": {
+          "value": "Dilip Shirsekar"
+        }
+      },
+      {
+        "label": "Patient Age",
+        "readText": {
+          "value": "72y"
+        }
+      },
+      {
+        "label": "Patient Gender",
+        "readText": {
+          "value": "Male"
+        }
+      },
+      {
+        "label": "Patient Contact",
+        "readText": {
+          "value": "9833993846"
+        }
+      },
+      {
+        "label": "Date & Time",
+        "readText": {
+          "value": "07-Mar-2025 11:58 AM"
+        }
+      },
+      {
+        "label": "Serum Sodium (Na+)",
+        "readText": {
+          "value": "126.5 mEq/L"
+        }
+      },
+      {
+        "label": "Serum Potassium (K+)",
+        "readText": {
+          "value": "3.96 mEq/L"
+        }
+      },
+      {
+        "label": "Serum Chloride (Cl+)",
+        "readText": {
+          "value": "90.3 mEq/L"
+        }
+      },
+      {
+        "label": "Serum Uric Acid",
+        "readText": {
+          "value": "4.74 mg/dL"
+        }
+      },
+      {
+        "label": "Diagnosis",
+        "readText": {
+          "value": "HERNIOPLASTY, IBS, PILECTOMY DOM=NE, EARLY ALCOHOLIC LIVER DISEASE, ELASTOGRAPHY VALUE -1.52, CHR. ISCHEMIC CHANGES IN BILATERAL FRONTOPARITAL PERIVENTRICULAR AND SUB CORTICAL WHITE MATTER HYPERTENSION -14/11/2024- MILD PULMONARY HYPERTENSION EPASP =37, MILD MR,AR PULMONARY PRESSURE 59-50 MMOF HG, LEVF 60-65, GRADE I LV DIASTOLIC DYSFUNCTION, LA VOLUME =68, RA DIAME42TER="
+        }
+      },
+      {
+        "label": "Advice",
+        "readText": {
+          "value": "TO STOP CTD 6.25 AS PT HAD HYPONATREMIA"
+        }
+      },
+      {
+        "label": "Next Visit",
+        "readText": {
+          "value": "6 days"
+        }
+      },
+      {
+        "label": "Prescribing Doctor",
+        "readText": {
+          "value": "Dr. Janak Shah MBBS, FCGP, PGD Diabetes"
+        }
+      }
+    ],
+    "medicines": [
+      {
+        "slNo": 1,
+        "readText": {
+          "medicine": "TAB. ECOSPIRIN 75",
+          "dosage": "0-1-0 (tab)",
+          "timing": "After Lunch",
+          "duration": "1 Month"
+        }
+      },
+      {
+        "slNo": 2,
+        "readText": {
+          "medicine": "DAN CT",
+          "dosage": "1-0-0",
+          "timing": "After Breakfast",
+          "duration": "3 Months"
+        }
+      },
+      {
+        "slNo": 3,
+        "readText": {
+          "medicine": "REFA Q",
+          "dosage": "1-0-1",
+          "timing": "After breakfast, After dinner",
+          "duration": "1 Month"
+        }
+      },
+      {
+        "slNo": 4,
+        "readText": {
+          "medicine": "TAB. MELOSET 3MG",
+          "dosage": "0-0-1 (tab)",
+          "timing": "After dinner",
+          "duration": "1 Month"
+        }
+      },
+      {
+        "slNo": 5,
+        "readText": {
+          "medicine": "CRM. COTARYL 3D",
+          "dosage": null,
+          "timing": null,
+          "duration": "Till Next Visit"
+        }
+      }
+    ],
+    "multivitamins": [
+      {
+        "slNo": 1,
+        "readText": {
+          "medicine": "CAP. DAN 60 K",
+          "dosage": "1-0-0 (cap)",
+          "timing": "After Food",
+          "frequency": "Weekly",
+          "duration": "12 Weeks"
+        }
+      }
+    ],
+    "injections": [],
+    "radiologicalTests": [],
+    "pathologicalTests": [
+      {
+        "slNo": 1,
+        "readText": {
+          "testName": "SR ELECTROLYTE",
+          "additionalInfo": "AFTER 5 DATS"
+        }
+      }
+    ]
+  }
+}

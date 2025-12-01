@@ -1,0 +1,132 @@
+{
+  "filename": "file12.jpg",
+  "pages": [
+    {
+      "page_number": 1,
+      "content": {
+        "generalInfo": [
+          {
+            "label": "Patient's Name",
+            "readText": {
+              "value": "MISS. SWETA SHINDE"
+            }
+          },
+          {
+            "label": "Dr.",
+            "readText": {
+              "value": "DR. SANGRAM DESHMUKH"
+            }
+          },
+          {
+            "label": "Ward",
+            "readText": {
+              "value": "ICU"
+            }
+          },
+          {
+            "label": "Insurance Claim",
+            "readText": {
+              "value": "Yes / No"
+            }
+          },
+          {
+            "label": "Date",
+            "readText": {
+              "value": "2/12/24"
+            }
+          }
+        ],
+        "medicines": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "INT. MEROPENEM 500mg",
+              "dosage": "03",
+              "timing": "02"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "INT. LEVOD 600",
+              "dosage": "02",
+              "timing": "02"
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "INT. PAN 400mg",
+              "dosage": "02",
+              "timing": "02"
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "INT. EMSGR 400mg",
+              "dosage": "02",
+              "timing": "02"
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "medicine": "INT. AVQL",
+              "dosage": "02",
+              "timing": "02"
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "medicine": "INT. H-CORT 100mg",
+              "dosage": "02",
+              "timing": "02"
+            }
+          },
+          {
+            "slNo": 7,
+            "readText": {
+              "medicine": "INT. NEOMOL 100ml",
+              "dosage": "01",
+              "timing": "01"
+            }
+          },
+          {
+            "slNo": 8,
+            "readText": {
+              "medicine": "TAB. LAMOTRIG",
+              "dosage": "06",
+              "timing": "01"
+            }
+          },
+          {
+            "slNo": 9,
+            "readText": {
+              "medicine": "IV. NS 500ml",
+              "dosage": "01",
+              "timing": "01"
+            }
+          },
+          {
+            "slNo": 10,
+            "readText": {
+              "medicine": "GLOVES",
+              "dosage": "10 pair",
+              "timing": "10"
+            }
+          },
+          {
+            "slNo": 11,
+            "readText": {
+              "medicine": "DUPER",
+              "dosage": "02",
+              "timing": "02"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

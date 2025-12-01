@@ -1,0 +1,31 @@
+services:
+  olm-ocr:
+    image: ghcr.io/ggml-org/llama.cpp:server-cuda
+    container_name: olm-ocr-server
+    restart: unless-stopped
+    ports:
+      - "8000:8080"
+    volumes:
+      # Mount the local ocr-models folder to /models inside the container
+      - ./ocr-models:/models
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    # The command combines all your run flags
+    command: >
+      --host 0.0.0.0
+      --model "/models/allenai_olmOCR-2-7B-1025-Q5_K_M.gguf"
+      --mmproj "/models/mmproj-allenai_olmOCR-2-7B-1025-f16.gguf"
+      --chat-template-file "/models/olm_template.j2"
+      --n-gpu-layers 23
+      --ctx-size 8192
+      --batch-size 512
+      --ubatch-size 512
+      --threads 9
+      --api-key "${API_KEY}"
+      --cache-type-k q8_0
+      --cache-type-v q8_0

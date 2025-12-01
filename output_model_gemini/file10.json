@@ -1,0 +1,49 @@
+{
+  "filename": "file10.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "Store Name",
+        "readText": {
+          "value": "MEDIPLUS MEDICAL STORE"
+        }
+      },
+      {
+        "label": "Report Type",
+        "readText": {
+          "value": "Ledger Report"
+        }
+      },
+      {
+        "label": "Report Period",
+        "readText": {
+          "value": "From 1/04/2024 To 31/03/2025"
+        }
+      },
+      {
+        "label": "Account Name",
+        "readText": {
+          "value": "SHINDE SHWETA ASHOK"
+        }
+      },
+      {
+        "label": "Account Location",
+        "readText": {
+          "value": "Satara H.O-Satara"
+        }
+      },
+      {
+        "label": "Department",
+        "readText": {
+          "value": "All Locations"
+        }
+      }
+    ],
+    "medicines": [],
+    "multivitamins": [],
+    "injections": [],
+    "radiologicalTests": [],
+    "pathologicalTests": []
+  }
+}

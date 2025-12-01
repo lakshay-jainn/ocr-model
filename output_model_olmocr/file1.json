@@ -1,0 +1,122 @@
+{
+  "filename": "file1.jpg",
+  "pages": [
+    {
+      "page_number": 1,
+      "content": {
+        "generalInfo": [
+          {
+            "label": "Clinic",
+            "readText": {
+              "value": "DHIRAJ CLINIC\nShivaji Apt., Hansnagar,\nBehind S. T. Workshop,\nKhopat, Thane - 400 601.\nPhone No.: 2533 07 37"
+            }
+          },
+          {
+            "label": "Clinic",
+            "readText": {
+              "value": "DE - DIWA FAMILY HEALTH CARE CENTRE\nDhaliya Society, Shop 2,\nS. V. Road, Naupada,\nThane - 400 602.\nPhone No.: 3297 70 34"
+            }
+          }
+        ],
+        "medicines": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "TAB. ECOSPIRIN 75",
+              "dosage": "0 - 1 - 0 (tab)",
+              "timing": "After Lunch - Daily - 1 Month",
+              "frequency": "After lunch"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "DAN CT",
+              "dosage": "1 - 0 - 0",
+              "timing": "After Breakfast - Daily - 3 Months",
+              "frequency": "After breakfast"
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "CAP. DAN 60 K",
+              "dosage": "1 - 0 - 0 (cap)",
+              "timing": "After Food - Weekly - 12 Weeks",
+              "frequency": "After breakfast"
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "REFA Q",
+              "dosage": "1 - 0 - 1",
+              "timing": "After Food - Daily - 1 Month",
+              "frequency": "After breakfast, 1 After dinner"
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "medicine": "TAB. MELOSET 3MG",
+              "dosage": "0 - 0 - 1 (tab)",
+              "timing": "After Dinner - Daily - 1 Month",
+              "frequency": "After dinner"
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "medicine": "CRM. COTARYL 3D",
+              "dosage": "-",
+              "timing": "Till Next Visit",
+              "frequency": "-"
+            }
+          }
+        ],
+        "multivitamins": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "None",
+              "dosage": "None",
+              "timing": "None",
+              "frequency": "None",
+              "duration": "None"
+            }
+          }
+        ],
+        "injections": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "None",
+              "dosage": "None",
+              "timing": "None",
+              "frequency": "None",
+              "duration": "None"
+            }
+          }
+        ],
+        "radiologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "[07-Mar-2025] Serum Sodium (Na+): 126.5 mEq/L, Serum Potassium (K+): 3.96 mEq/L, Serum Chloride (Cl+): 90.3 mEq/L, Serum Uric Acid: 4.74 mg/dL",
+              "additionalInfo": "Diagnosis: HERNIOPLASTY, IBS, PILLECTOMY DOM=NE, EARLY ALCOHOLIC LIVER DISEASE, ELASTOGRAPHY VALUE -1.52, CHR. ISCHEMIC CHANGES IN BILATERAL FRONTOPARITAL PERIVENTRICULAR AND SUB CORTICAL WHITE MATTER, MODERATE TO SEVERE PULM HYPERTENSION -14/11/2024- MILD PULMONARY HYPERTENSION EPASP =37, MILD MR,AR & MODERATE T-3.1R (TR VMAX, PULMONARY PRESSURE 59 - 50 MMOF HG, LEVF 60-65 , GRADE I LV DIASTOLIC DYSFUNCTION , LA VOLUME =68, RA DIAME42TER="
+            }
+          }
+        ],
+        "pathologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "None",
+              "additionalInfo": "None"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

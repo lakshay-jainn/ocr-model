@@ -1,0 +1,72 @@
+{
+  "filename": "file2.jpg",
+  "pages": [
+    {
+      "page_number": 1,
+      "content": {
+        "generalInfo": [
+          {
+            "label": "No.",
+            "readText": {
+              "value": "547"
+            }
+          },
+          {
+            "label": "Sold to Shree",
+            "readText": {
+              "value": "DILIP"
+            }
+          },
+          {
+            "label": "Add & Mo.",
+            "readText": {
+              "value": "9876xx"
+            }
+          },
+          {
+            "label": "Prescribe by Dr.",
+            "readText": {
+              "value": "Priyam"
+            }
+          },
+          {
+            "label": "Date",
+            "readText": {
+              "value": "10/10/2024"
+            }
+          }
+        ],
+        "medicines": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "TAB. ECOSPRIN 75",
+              "dosage": "",
+              "timing": "",
+              "duration": "",
+              "companyName": "",
+              "batchNo/Ex.Date": "",
+              "amount": "2001-"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "DAN CT",
+              "dosage": "",
+              "timing": "",
+              "duration": "",
+              "companyName": "",
+              "batchNo/Ex.Date": "",
+              "amount": "4001-"
+            }
+          }
+        ],
+        "multivitamins": [],
+        "injections": [],
+        "radiologicalTests": [],
+        "pathologicalTests": []
+      }
+    }
+  ]
+}

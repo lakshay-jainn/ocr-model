@@ -1,0 +1,131 @@
+{
+  "filename": "file5.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "Patient Name",
+        "readText": {
+          "value": "RAMESH KR. GUPTA"
+        }
+      },
+      {
+        "label": "Age/Gender",
+        "readText": {
+          "value": "54/M"
+        }
+      },
+      {
+        "label": "Date",
+        "readText": {
+          "value": "11/8/2023"
+        }
+      },
+      {
+        "label": "Chief Complaint",
+        "readText": {
+          "value": "Dry mouth, no Dyspnea, NYHA-I"
+        }
+      },
+      {
+        "label": "Clinical Observation",
+        "readText": {
+          "value": "I CMP- EF-35%, CAD are acute"
+        }
+      },
+      {
+        "label": "History",
+        "readText": {
+          "value": "PICAO CAD-2014, Re MI-Dec 19, LAD-I w/."
+        }
+      },
+      {
+        "label": "Examination",
+        "readText": {
+          "value": "AF-100/76"
+        }
+      },
+      {
+        "label": "Chart ID",
+        "readText": {
+          "value": "Nucleus W-5152"
+        }
+      },
+      {
+        "label": "Lab Result HS",
+        "readText": {
+          "value": "13.40"
+        }
+      },
+      {
+        "label": "Lab Result hSAc",
+        "readText": {
+          "value": "6.1"
+        }
+      },
+      {
+        "label": "Lab Result Cr",
+        "readText": {
+          "value": "0.70"
+        }
+      },
+      {
+        "label": "Lab Result",
+        "readText": {
+          "value": "128/4.2"
+        }
+      }
+    ],
+    "medicines": [
+      {
+        "slNo": 1,
+        "readText": {
+          "medicine": "NOVASAT-CV",
+          "dosage": "10",
+          "timing": "Once at night",
+          "duration": "2 months"
+        }
+      },
+      {
+        "slNo": 2,
+        "readText": {
+          "medicine": "CORBIS",
+          "dosage": "2.5mg",
+          "timing": "Once in the morning",
+          "duration": "2 months"
+        }
+      },
+      {
+        "slNo": 3,
+        "readText": {
+          "medicine": "CIOMUS",
+          "dosage": "200",
+          "timing": "Morning and evening",
+          "duration": "2 months"
+        }
+      },
+      {
+        "slNo": 4,
+        "readText": {
+          "medicine": "ADACTONE",
+          "dosage": "25mg",
+          "timing": "Once a day, alternate days",
+          "duration": "2 months"
+        }
+      },
+      {
+        "slNo": 5,
+        "readText": {
+          "medicine": "GLUXIT",
+          "dosage": "10mg",
+          "timing": "Once in the morning",
+          "duration": "2 months"
+        }
+      }
+    ],
+    "multivitamins": [],
+    "injections": [],
+    "radiologicalTests": [],
+    "pathologicalTests": []
+  }
+}

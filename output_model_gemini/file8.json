@@ -1,0 +1,100 @@
+{
+  "filename": "file8.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "Patient Name",
+        "readText": {
+          "value": "Suman Mathew"
+        }
+      },
+      {
+        "label": "Patient Age",
+        "readText": {
+          "value": "71"
+        }
+      },
+      {
+        "label": "Patient Gender",
+        "readText": {
+          "value": "Female"
+        }
+      },
+      {
+        "label": "Date of Consultation",
+        "readText": {
+          "value": "21-09-2024"
+        }
+      },
+      {
+        "label": "Chief Complaint",
+        "readText": {
+          "value": "Jingling & Murmur in left UL Sr. Many"
+        }
+      },
+      {
+        "label": "Medical History",
+        "readText": {
+          "value": "Known Diabetic, Hypertension"
+        }
+      },
+      {
+        "label": "Consulting Doctor",
+        "readText": {
+          "value": "Dr. Yashpal Singh Bundela"
+        }
+      },
+      {
+        "label": "Hospital",
+        "readText": {
+          "value": "MAX Healthcare"
+        }
+      },
+      {
+        "label": "Referral",
+        "readText": {
+          "value": "To Consult Dr. Darshan Bhatpuri"
+        }
+      }
+    ],
+    "medicines": null,
+    "multivitamins": [
+      {
+        "slNo": 1,
+        "readText": {
+          "medicine": "Capulse D3",
+          "dosage": "60,000 unit",
+          "timing": null,
+          "frequency": "once a week",
+          "duration": null
+        }
+      }
+    ],
+    "injections": null,
+    "radiologicalTests": [
+      {
+        "slNo": 1,
+        "readText": {
+          "testName": "MRI Brain & Diffusion",
+          "additionalInfo": "wt image"
+        }
+      },
+      {
+        "slNo": 2,
+        "readText": {
+          "testName": "MRI Cervical Spine & whole spin screening",
+          "additionalInfo": null
+        }
+      },
+      {
+        "slNo": 3,
+        "readText": {
+          "testName": "Carotid Doppler",
+          "additionalInfo": "Neck vessel"
+        }
+      }
+    ],
+    "pathologicalTests": null
+  }
+}

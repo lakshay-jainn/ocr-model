@@ -1,0 +1,60 @@
+{
+  "filename": "file6.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "Receipt No.",
+        "readText": {
+          "value": "2748"
+        }
+      },
+      {
+        "label": "Date",
+        "readText": {
+          "value": "03/12/2024"
+        }
+      },
+      {
+        "label": "Patient Name",
+        "readText": {
+          "value": "Shavta Shinde"
+        }
+      },
+      {
+        "label": "Total Paid",
+        "readText": {
+          "value": "6600L"
+        }
+      }
+    ],
+    "medicines": [],
+    "multivitamins": [],
+    "injections": [],
+    "radiologicalTests": [
+      {
+        "slNo": 2,
+        "readText": {
+          "testName": "X-RAY",
+          "additionalInfo": null
+        }
+      },
+      {
+        "slNo": 3,
+        "readText": {
+          "testName": "2D- ECHO",
+          "additionalInfo": null
+        }
+      }
+    ],
+    "pathologicalTests": [
+      {
+        "slNo": 1,
+        "readText": {
+          "testName": "LAB",
+          "additionalInfo": null
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "filename": "file7.jpg",
+  "pages": [
+    {
+      "page_number": 1,
+      "content": {
+        "generalInfo": [
+          {
+            "label": "GSTIN",
+            "readText": {
+              "value": "36AANPT6185G122"
+            }
+          },
+          {
+            "label": "CASH BILL",
+            "readText": {
+              "value": "CASH BILL"
+            }
+          },
+          {
+            "label": "DI No.",
+            "readText": {
+              "value": "TS/SDP/2017-27858"
+            }
+          },
+          {
+            "label": "H.O.",
+            "readText": {
+              "value": "H.O.11-3-23, Near Victory Talkies 'X' Road, Yensanpally Road, SIDDIPET."
+            }
+          },
+          {
+            "label": "No.",
+            "readText": {
+              "value": "1189"
+            }
+          },
+          {
+            "label": "Date",
+            "readText": {
+              "value": "2011/02/07"
+            }
+          },
+          {
+            "label": "Ref. by",
+            "readText": {
+              "value": "Dr. T. Subhasini, M.B.B.S.D.G.O."
+            }
+          },
+          {
+            "label": "Name",
+            "readText": {
+              "value": "A. SAHITHI"
+            }
+          }
+        ],
+        "medicines": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "Cat gut No.1",
+              "dosage": "1",
+              "timing": "8621",
+              "duration": "6/27"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "Double Suture",
+              "dosage": "1",
+              "timing": "2101",
+              "duration": "9/26"
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "Betadine Sol",
+              "dosage": "1",
+              "timing": "8216",
+              "duration": "3/26"
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "Surgical Spirit",
+              "dosage": "1",
+              "timing": "3509",
+              "duration": "1/27"
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "medicine": "Underpad",
+              "dosage": "1",
+              "timing": "9219",
+              "duration": "11/27"
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "medicine": "Enera",
+              "dosage": "1",
+              "timing": "2626",
+              "duration": "8/29"
+            }
+          }
+        ],
+        "multivitamins": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "Cat gut No.1",
+              "dosage": "1",
+              "timing": "8621",
+              "duration": "6/27"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "Double Suture",
+              "dosage": "1",
+              "timing": "2101",
+              "duration": "9/26"
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "Betadine Sol",
+              "dosage": "1",
+              "timing": "8216",
+              "duration": "3/26"
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "Surgical Spirit",
+              "dosage": "1",
+              "timing": "3509",
+              "duration": "1/27"
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "medicine": "Underpad",
+              "dosage": "1",
+              "timing": "9219",
+              "duration": "11/27"
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "medicine": "Enera",
+              "dosage": "1",
+              "timing": "2626",
+              "duration": "8/29"
+            }
+          }
+        ],
+        "injections": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "Cat gut No.1",
+              "dosage": "1",
+              "timing": "8621",
+              "duration": "6/27"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "Double Suture",
+              "dosage": "1",
+              "timing": "2101",
+              "duration": "9/26"
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "Betadine Sol",
+              "dosage": "1",
+              "timing": "8216",
+              "duration": "3/26"
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "Surgical Spirit",
+              "dosage": "1",
+              "timing": "3509",
+              "duration": "1/27"
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "medicine": "Underpad",
+              "dosage": "1",
+              "timing": "9219",
+              "duration": "11/27"
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "medicine": "Enera",
+              "dosage": "1",
+              "timing": "2626",
+              "duration": "8/29"
+            }
+          }
+        ],
+        "radiologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "Cat gut No.1",
+              "additionalInfo": "8621 6/27"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "testName": "Double Suture",
+              "additionalInfo": "2101 9/26"
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "testName": "Betadine Sol",
+              "additionalInfo": "8216 3/26"
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "testName": "Surgical Spirit",
+              "additionalInfo": "3509 1/27"
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "testName": "Underpad",
+              "additionalInfo": "9219 11/27"
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "testName": "Enera",
+              "additionalInfo": "2626 8/29"
+            }
+          }
+        ],
+        "pathologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "Cat gut No.1",
+              "additionalInfo": "8621 6/27"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "testName": "Double Suture",
+              "additionalInfo": "2101 9/26"
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "testName": "Betadine Sol",
+              "additionalInfo": "8216 3/26"
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "testName": "Surgical Spirit",
+              "additionalInfo": "3509 1/27"
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "testName": "Underpad",
+              "additionalInfo": "9219 11/27"
+            }
+          },
+          {
+            "slNo": 6,
+            "readText": {
+              "testName": "Enera",
+              "additionalInfo": "2626 8/29"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

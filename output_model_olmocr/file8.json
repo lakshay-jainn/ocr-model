@@ -1,0 +1,98 @@
+{
+  "filename": "file8.jpg",
+  "pages": [
+    {
+      "page_number": 1,
+      "content": {
+        "generalInfo": [
+          {
+            "label": "Dr. Yashpal Singh Bhandela",
+            "readText": {
+              "value": "Dr. Yashpal Singh Bhandela\nMS, M.Ch (Neurosurgery)\nDirector Neurosurgery (Brain & Spine)\nPresident, Neurosurgical Society of India\nMember of Spine Society of India\nDNC No. 15758"
+            }
+          }
+        ],
+        "medicines": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "MR I",
+              "dosage": "100 mg",
+              "timing": "once a day",
+              "duration": "10 days"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "MR I",
+              "dosage": "100 mg",
+              "timing": "once a day",
+              "duration": "10 days"
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "Carbidol",
+              "dosage": "10 mg",
+              "timing": "once a day",
+              "duration": "10 days"
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "P2",
+              "dosage": "600 mcg",
+              "timing": "once a week",
+              "duration": "10 days"
+            }
+          }
+        ],
+        "multivitamins": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "Multivitamin",
+              "dosage": "100 mg",
+              "timing": "once a day",
+              "frequency": "10 days",
+              "duration": "10 days"
+            }
+          }
+        ],
+        "injections": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "Carbidol",
+              "dosage": "10 mg",
+              "timing": "once a day",
+              "frequency": "10 days",
+              "duration": "10 days"
+            }
+          }
+        ],
+        "radiologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "MRI Brain & Cervical",
+              "additionalInfo": "with and without contrast"
+            }
+          }
+        ],
+        "pathologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "Carbidol",
+              "additionalInfo": "10 mg"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

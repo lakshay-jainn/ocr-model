@@ -1,0 +1,262 @@
+{
+  "filename": "file11.jpg",
+  "pages": [
+    {
+      "page_number": 1,
+      "content": {
+        "generalInfo": [
+          {
+            "label": "No.",
+            "readText": {
+              "value": "3968"
+            }
+          },
+          {
+            "label": "Date",
+            "readText": {
+              "value": "08-12-24"
+            }
+          },
+          {
+            "label": "Patient Name",
+            "readText": {
+              "value": "Shweta Shinde"
+            }
+          },
+          {
+            "label": "Lab Name",
+            "readText": {
+              "value": "BOLIL LAB"
+            }
+          },
+          {
+            "label": "Bill Amount",
+            "readText": {
+              "value": "9100L"
+            }
+          },
+          {
+            "label": "Bill Amount in words",
+            "readText": {
+              "value": "Nine Thousand One Only"
+            }
+          },
+          {
+            "label": "Receive Sign.",
+            "readText": {
+              "value": "Arun"
+            }
+          },
+          {
+            "label": "Relative Sign.",
+            "readText": {
+              "value": "Arun"
+            }
+          }
+        ],
+        "medicines": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "LAB",
+              "dosage": "",
+              "timing": "",
+              "duration": ""
+            },
+            "amount": "3600L"
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "X-RAY",
+              "dosage": "",
+              "timing": "",
+              "duration": ""
+            },
+            "amount": "1000L"
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "2D-ECHO",
+              "dosage": "",
+              "timing": "",
+              "duration": ""
+            },
+            "amount": "2000L"
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "OTHER",
+              "dosage": "",
+              "timing": "",
+              "duration": ""
+            },
+            "amount": ""
+          }
+        ],
+        "multivitamins": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "LAB",
+              "dosage": "2500L",
+              "timing": "",
+              "frequency": "",
+              "duration": ""
+            },
+            "amount": "2500L"
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "X-RAY",
+              "dosage": "500L",
+              "timing": "",
+              "frequency": "",
+              "duration": ""
+            },
+            "amount": "500L"
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "2D-ECHO",
+              "dosage": "",
+              "timing": "",
+              "frequency": "",
+              "duration": ""
+            },
+            "amount": ""
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "OTHER",
+              "dosage": "Online",
+              "timing": "",
+              "frequency": "",
+              "duration": ""
+            },
+            "amount": ""
+          }
+        ],
+        "injections": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "LAB",
+              "dosage": "2300L",
+              "timing": "",
+              "frequency": "",
+              "duration": ""
+            },
+            "amount": "2300L"
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "X-RAY",
+              "dosage": "1000L",
+              "timing": "",
+              "frequency": "",
+              "duration": ""
+            },
+            "amount": "1000L"
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "medicine": "2D-ECHO",
+              "dosage": "",
+              "timing": "",
+              "frequency": "",
+              "duration": ""
+            },
+            "amount": ""
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "medicine": "OTHER",
+              "dosage": "",
+              "timing": "",
+              "frequency": "",
+              "duration": ""
+            },
+            "amount": ""
+          }
+        ],
+        "radiologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "LAB",
+              "additionalInfo": ""
+            },
+            "amount": "2500L"
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "testName": "X-RAY",
+              "additionalInfo": ""
+            },
+            "amount": "500L"
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "testName": "2D-ECHO",
+              "additionalInfo": ""
+            },
+            "amount": ""
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "testName": "OTHER",
+              "additionalInfo": "Online"
+            },
+            "amount": ""
+          }
+        ],
+        "pathologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "LAB",
+              "additionalInfo": ""
+            },
+            "amount": "2300L"
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "testName": "X-RAY",
+              "additionalInfo": ""
+            },
+            "amount": "1000L"
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "testName": "2D-ECHO",
+              "additionalInfo": ""
+            },
+            "amount": ""
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "testName": "OTHER",
+              "additionalInfo": ""
+            },
+            "amount": ""
+          }
+        ]
+      }
+    }
+  ]
+}

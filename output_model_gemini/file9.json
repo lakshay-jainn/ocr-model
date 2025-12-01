@@ -1,0 +1,49 @@
+{
+  "filename": "file9.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "Store Name",
+        "readText": {
+          "value": "MEDIPLUS MEDICAL STORE"
+        }
+      },
+      {
+        "label": "Store Description/Address",
+        "readText": {
+          "value": "Ajinkyatara multispeciality hospital 500 A & opp civil hospital Satara"
+        }
+      },
+      {
+        "label": "Report Type",
+        "readText": {
+          "value": "Ledger Report"
+        }
+      },
+      {
+        "label": "Report Period",
+        "readText": {
+          "value": "From 1/04/2024 To 31/03/2025"
+        }
+      },
+      {
+        "label": "Account Name",
+        "readText": {
+          "value": "SHINDE SHWETA ASHOK. (Satara H.O-Satara)"
+        }
+      },
+      {
+        "label": "Department",
+        "readText": {
+          "value": "All Locations"
+        }
+      }
+    ],
+    "medicines": null,
+    "multivitamins": null,
+    "injections": null,
+    "radiologicalTests": null,
+    "pathologicalTests": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "filename": "file7.jpg",
+  "mime_type": "image/jpeg",
+  "content": {
+    "generalInfo": [
+      {
+        "label": "GSTIN",
+        "readText": {
+          "value": "36AANPT6185G1Z2"
+        }
+      },
+      {
+        "label": "Bill Type",
+        "readText": {
+          "value": "CASH BILL"
+        }
+      },
+      {
+        "label": "DI No",
+        "readText": {
+          "value": "TS/SDP/2017-27888"
+        }
+      },
+      {
+        "label": "Store Name",
+        "readText": {
+          "value": "SAI MADHAV MEDICAL & GENERAL STORE"
+        }
+      },
+      {
+        "label": "Address",
+        "readText": {
+          "value": "H.NO.11-3-23, Near Victory Talkies 'X' Road, Yensanpally Road, SIDDIPET."
+        }
+      },
+      {
+        "label": "Bill No",
+        "readText": {
+          "value": "1189"
+        }
+      },
+      {
+        "label": "Date",
+        "readText": {
+          "value": "22/11/2024"
+        }
+      },
+      {
+        "label": "Patient Name",
+        "readText": {
+          "value": "A. SAHITHI"
+        }
+      },
+      {
+        "label": "Referring Doctor",
+        "readText": {
+          "value": "Dr. T. Suhasini"
+        }
+      },
+      {
+        "label": "Doctor Qualification",
+        "readText": {
+          "value": "M.B.B.S.D.G.O."
+        }
+      }
+    ],
+    "medicines": [],
+    "multivitamins": [],
+    "injections": [],
+    "radiologicalTests": [],
+    "pathologicalTests": []
+  }
+}

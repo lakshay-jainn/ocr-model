@@ -1,0 +1,138 @@
+{
+  "filename": "file3.jpg",
+  "pages": [
+    {
+      "page_number": 1,
+      "content": {
+        "generalInfo": [
+          {
+            "label": "Order ID",
+            "readText": {
+              "value": "549790463153565696-62714"
+            }
+          },
+          {
+            "label": "POS",
+            "readText": {
+              "value": "07-Delhi"
+            }
+          },
+          {
+            "label": "Order Date",
+            "readText": {
+              "value": "15-02-2025"
+            }
+          },
+          {
+            "label": "Invoice Date",
+            "readText": {
+              "value": "16-02-2025"
+            }
+          }
+        ],
+        "medicines": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "GLUXIT 10MG STRIP OF 10 T",
+              "dosage": "ERIS LIFE SCIENCE",
+              "timing": "08/26",
+              "duration": "352.83"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "CORBIS 2.5MG STRIP OF",
+              "dosage": "TORRENT PHARMACE",
+              "timing": "11/26",
+              "duration": "147.44"
+            }
+          }
+        ],
+        "multivitamins": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "GLUXIT 10MG STRIP OF 10 T",
+              "dosage": "ERIS LIFE SCIENCE",
+              "timing": "08/26",
+              "frequency": "3",
+              "duration": "352.83"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "medicine": "CORBIS 2.5MG STRIP OF",
+              "dosage": "TORRENT PHARMACE",
+              "timing": "11/26",
+              "frequency": "2",
+              "duration": "147.44"
+            }
+          }
+        ],
+        "radiologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "Taxable Amt",
+              "additionalInfo": "446.67"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "testName": "IGST %",
+              "additionalInfo": "12.00"
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "testName": "IGST Amt",
+              "additionalInfo": "53.60"
+            }
+          }
+        ],
+        "pathologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "MRP Total",
+              "additionalInfo": "692.90"
+            }
+          },
+          {
+            "slNo": 2,
+            "readText": {
+              "testName": "PharmEasy Savings @ 12.00%",
+              "additionalInfo": "83.15"
+            }
+          },
+          {
+            "slNo": 3,
+            "readText": {
+              "testName": "Coupon Savings",
+              "additionalInfo": "83.15"
+            }
+          },
+          {
+            "slNo": 4,
+            "readText": {
+              "testName": "Pharmeasy Credits",
+              "additionalInfo": "26.33"
+            }
+          },
+          {
+            "slNo": 5,
+            "readText": {
+              "testName": "Discounted Value",
+              "additionalInfo": "500.27"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

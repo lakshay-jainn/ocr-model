@@ -1,0 +1,77 @@
+{
+  "filename": "file13.jpg",
+  "pages": [
+    {
+      "page_number": 1,
+      "content": {
+        "generalInfo": [
+          {
+            "label": "JG/Grade",
+            "readText": {
+              "value": "Job Group C"
+            }
+          },
+          {
+            "label": "Region/Location",
+            "readText": {
+              "value": "MR / DHDS"
+            }
+          }
+        ],
+        "medicines": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "Medicines / Injections",
+              "dosage": "",
+              "timing": "",
+              "duration": "10149.00"
+            }
+          }
+        ],
+        "multivitamins": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "Medicines / Injections",
+              "dosage": "",
+              "timing": "",
+              "frequency": "",
+              "duration": "10149.00"
+            }
+          }
+        ],
+        "injections": [
+          {
+            "slNo": 1,
+            "readText": {
+              "medicine": "Medicines / Injections",
+              "dosage": "",
+              "timing": "",
+              "frequency": "",
+              "duration": "10149.00"
+            }
+          }
+        ],
+        "radiologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "Oxygen / Blood / Monitor Charges",
+              "additionalInfo": "BPCL (MP) / बीपीसीएल (मध्य प्रदेश)"
+            }
+          }
+        ],
+        "pathologicalTests": [
+          {
+            "slNo": 1,
+            "readText": {
+              "testName": "Medicines / Injections",
+              "additionalInfo": "10149.00"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
